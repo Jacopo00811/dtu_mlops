@@ -172,3 +172,11 @@ corruptmnist_v2/
 
 # data
 datasets/
+data/
+
+# models
+models/
+
+# profilers
+profiler/
+wandb/
